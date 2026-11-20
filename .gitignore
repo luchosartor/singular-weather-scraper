@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+.pytest_cache/
+
+# Personal tooling and the exercise prompt itself - not part of the solution.
+.claude/
+IQ-Weather Data Scraping Exercise-041224-075905.pdf

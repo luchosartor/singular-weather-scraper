@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+# Lets `pytest` find the `weather_scraper` package under src/ without
+# needing `PYTHONPATH=src` set on every invocation.
+pythonpath = ["src"]
